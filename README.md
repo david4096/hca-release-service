@@ -2,7 +2,7 @@ This software attempts to make it easy to create studies of the functional genom
 
 One can think of the HCA as a large table spread across many locations with each row a sample and each column a feature. The purpose of this software is to gather and assemble data and then offer it using a few simple, well-defined, interfaces.
 
-At any given time, a list of sample_ids and feature_ids is what is needed to generate a Study. In this way, it is possible for the community on what data is involved in a study and easily communicate central points of analysis.
+At any given time, a list of sample_ids and feature_ids is what is needed to generate a Study. In this way, it is possible for the community to decide on what data is involved in a study and easily communicate central points of analysis.
 
 ## Services
 
